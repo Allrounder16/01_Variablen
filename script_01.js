@@ -1,6 +1,6 @@
 "use strict";
 
-/***** Variablen 01 *******/
+/***** 01 Variablen *******/
 
 /** 
  * 
@@ -9,4 +9,8 @@
 */
 
 // Zeilen-Kommentar
+//console.log("Variablen-01");
+//console.log(firstname);
+//
 
+/***** 02 Deklaration + Wertezuweisung *******/
